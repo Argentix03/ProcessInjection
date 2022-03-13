@@ -1,0 +1,6 @@
+﻿  ApcInject.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 87 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ApcInject.vcxproj -> C:\Users\Argentix\source\repos\ApcInject\x64\Release\ApcInject.exe
